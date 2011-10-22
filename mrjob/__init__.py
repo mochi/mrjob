@@ -36,4 +36,4 @@ __credits__ = [
     'Paul Wais <pwais@yelp.com>',
 ]
 
-__version__ = '0.2.8'
+__version__ = '0.2.8-20728'
